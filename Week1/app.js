@@ -17,7 +17,7 @@ myName="Hyeon Lee"; //let allows changing the value of myName
 console.log("hello! "+myName); //result: hello! Hyeon Lee
 
 
-const amIfat=null;
+const amIfat=null; //boolean
 let something;
 console.log(something,amIfat); //result: undefined null
 
