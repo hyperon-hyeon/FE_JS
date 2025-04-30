@@ -1,4 +1,4 @@
-//JavaScript Basics Week1
+//JavaScript Basics Week2
 //Function / Input / Condition
 
 
