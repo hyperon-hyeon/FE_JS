@@ -1,5 +1,5 @@
 //JavaScript Basics Week4
-//CSS in JS / 
+//CSS in JS
 
 
 //1. CSS in JS
