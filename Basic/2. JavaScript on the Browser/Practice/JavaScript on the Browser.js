@@ -1,5 +1,5 @@
 //JavaScript Basics Week3
-//Document / Event
+//Document / Event / CSS in JS
 
 
 //Document
