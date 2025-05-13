@@ -1,5 +1,3 @@
-# FE_JS
-
 # #1 Introduction
 
 ## 준비물
