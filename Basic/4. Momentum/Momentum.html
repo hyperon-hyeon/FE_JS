@@ -4,9 +4,17 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="Momentum.css">
-    <title>Login</title>
+    <title>Momentum</title>
 </head>
 <body>
+    <div id="weather">
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
+    <h2 id="clock">00:00:00</h2>
+    <h1 id="greeting" class="hidden"></h1>
+
     <form id="login-form" class="hidden">
         <input required maxlength="15" type="text" placeholder="What is youe name?" />
         <button>Log In</button>
@@ -15,13 +23,7 @@
         <input type="text" placeholder="Write a To Do and Press Enter" required/>
     </form>
     <ul id="todo-list"></ul>
-    <h1 id="greeting" class="hidden"></h1>
-    <h2 id="clock">00:00:00</h2>
     <div id ="quote">
-        <span></span>
-        <span></span>
-    </div>
-    <div id="weather">
         <span></span>
         <span></span>
     </div>

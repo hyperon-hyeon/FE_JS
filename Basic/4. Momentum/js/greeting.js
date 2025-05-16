@@ -2,13 +2,13 @@
 //Login - Default activity / save user name / local storage
 
 //1. prevent Default activity
-const link=document.querySelector("a");
+// const link=document.querySelector("a");
 
-function handleLinkClick(event){
-    event.preventDefault();
-    console.dir(event);
-}
-link.addEventListener("click",handleLinkClick);
+// function handleLinkClick(event){
+//     event.preventDefault();
+//     console.dir(event);
+// }
+// link.addEventListener("click",handleLinkClick);
 
 //2. save username
 const loginInput = document.querySelector("#login-form input");
@@ -44,5 +44,3 @@ if(savedUsername===null){
 }else{
     paintGreetings(savedUsername);
 }
-
-
